@@ -65,8 +65,8 @@ Requisitos:
 Go 1.22+
 Node.js 20+
 TagLib (libtagc)
-git clone https://github.com/Darep/Beatstream
-cd Beatstream/frontend
+git clone https://github.com/isairey/AppStreamingMusic
+cd BAppStreamingMusic/frontend
 npm install
 npm run build
 cd ..
