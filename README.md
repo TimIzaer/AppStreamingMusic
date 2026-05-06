@@ -150,6 +150,8 @@ Beatstream/
  ---
  
 ## 👨‍💻 Autor
+<a href="https://github.com/TimIzaer/AppStreamingMusic/graphs/contributors"> <img src="https://contrib.rocks/image?repo=TimIzaer/AppStreamingMusic" /> </a>
+👤 Autor
 
 **Isai Reyes**
 
